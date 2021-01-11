@@ -1,0 +1,4 @@
+streamlit_embedcode==0.1.1
+streamlit==0.74.1
+numpy==1.19.5
+pandas==1.2.0
